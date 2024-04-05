@@ -5,3 +5,6 @@ For server and client side run:
 - npm start
 
 **Note: to avoid CORS issue, proxy 'http://localhost:8080' was set on package.json on client**
+
+### Output:
+![test](https://raw.githubusercontent.com/noelalfonsomiranda/cs-crypto/master/screenshot.png)
